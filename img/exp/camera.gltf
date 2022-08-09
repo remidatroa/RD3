@@ -1,0 +1,32 @@
+{
+	"asset":{
+		"version":"2.0",
+		"generator":"Created using the official Cinema 4D glTF Exporter 1.000x284978"
+	},
+	"scenes":[{
+		"nodes":[0]
+	}],
+	"nodes":[{
+		"name":"Camera",
+		"translation":[798.1657104492188,
+		494.4622497558594,
+		-241.4661407470703],
+		"rotation":[-0.15502147376537324,
+		0.7765111923217773,
+		0.20988231897354127,
+		0.5735400319099426],
+		"scale":[1.0,
+		1.0,
+		1.0],
+		"camera":0
+	}],
+	"cameras":[{
+		"type":"perspective",
+		"perspective":{
+			"znear":0.009999999776482582,
+			"yfov":0.5483348965644836,
+			"zfar":10000000000.0,
+			"aspectRatio":1.7777777910232545
+		}
+	}]
+}
